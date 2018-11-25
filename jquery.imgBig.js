@@ -1,6 +1,7 @@
 ;(function($){
 	$.fn.imgBig=function(boxO,imgO){
 		//console.log("this:",this);
+		///1111111111111111111
 		var box={
 			width: "300px",
 			height: "300px",
